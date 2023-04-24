@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbrahamPrz
-- 👀 I’m interested in videogames and AI
-- 🌱 I’m currently learning AI with Python
+- 👀 I’m interested in AI and videogames
+- 🌱 I’m currently learning about Reinforcement Learning and NLP with Python
 - 💞️ I’m looking to collaborate on AI and videogame projects
 
 <!---
